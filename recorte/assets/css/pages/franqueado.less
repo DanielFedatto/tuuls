@@ -1,0 +1,102 @@
+.franqueado {
+  padding: 2rem 0;
+  background-color: #E1E1E1;
+  h2 {
+    color: @orange;
+    font-weight: @extra-bold;
+  }
+}
+.franqueado-form {
+  background-image: url('../images/form-franqueado-img.jpg');
+  background-size: 49%;
+  background-repeat: no-repeat;
+  background-position: left top;
+  .form-control {
+    padding: 1rem;
+    border-radius: 0;
+    border: 0;
+    position: relative;
+    font-weight: @semi-bold;
+    color: #414042;
+  }
+  .custom-select {
+    padding: 1rem;
+    border-radius: 0;
+    border: 0;
+    font-weight: @semi-bold;
+    color: #414042;
+    height: auto;
+  }
+    .custom-radio {
+
+  }
+  .custom-radio .custom-control-input:checked~.custom-control-label::before {
+    background-color: #fff;
+  }
+  .input-group-text {
+    border: 0;
+    background-color: #414042;
+    border-radius: 0;
+  }
+  .button-container {
+    border: solid 1px @orange;
+    color: @orange;
+  }
+  .submit {
+    position: absolute;
+    padding: .5rem 5rem;
+  }
+  .btn-primary {
+    background-color: @orange;
+    border-radius: 0;
+    border: none;
+    padding: .5rem 5rem;
+    overflow: hidden;
+    position: relative;
+    mask: url(https://raw.githubusercontent.com/robin-dela/css-mask-animation/master/img/urban-sprite.png);
+    mask-size: 3000% 100%;
+    cursor: pointer;
+    animation: ani2 0.7s steps(29) forwards;
+    &:hover {
+     animation: ani 0.7s steps(29) forwards;
+     span {
+       &:hover {
+         color: @orange;
+       }
+     }
+    }
+  }
+  @keyframes ani {
+  from {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+  to {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  }
+  @-webkit-keyframes ani2 {
+    from {
+      -webkit-mask-position: 100% 0;
+      mask-position: 100% 0;
+    }
+    to {
+      -webkit-mask-position: 0 0;
+      mask-position: 0 0;
+    }
+  }
+  @keyframes ani2 {
+  from {
+    -webkit-mask-position: 100% 0;
+    mask-position: 100% 0;
+  }
+  to {
+    -webkit-mask-position: 0 0;
+    mask-position: 0 0;
+  }
+  }
+  a {
+    color: #00ff95;
+  }
+}

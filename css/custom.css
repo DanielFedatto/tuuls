@@ -1,0 +1,40 @@
+.shop-model-wrap figure img{
+    padding: .5rem;
+    max-height: 100px;
+}
+.fixadores {
+    padding-top: calc(30px + 2rem);
+}
+.fixadores figure {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 0;
+}
+.fixadores figure figcaption {
+    position: absolute;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.fixadores figure figcaption h5{
+    color: white;
+    font-weight: 700;
+    margin: 0;
+}
+.fixa-fig {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    margin-top: 1rem;
+}
+.ver-mais {
+    font-weight: 700;
+    color: #f27020;
+}
+.ver-mais:hover {
+    font-weight: 700;
+    color: #f27020;
+    text-decoration: none;
+}
