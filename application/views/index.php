@@ -19,382 +19,132 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row justify-content-end">
             <div class="col-lg-3 d-flex justify-content-center align-items-center">
                 <figure class="fixa-fig">
-                    <figcaption>
-    				    <span>Parafuso Sextavado Soberbo</span>
-				    </figcaption>
     				<img src="<?php echo url::base(); ?>images/fix-01.png" alt="Fixadores" class="img-fluid">
 			    </figure>
             </div>
             <div class="col-lg-3 d-flex justify-content-center align-items-center">
                 <figure class="fixa-fig">
-                    <figcaption>
-    				    <span>Parafuso Fenda<br> Simples Cabeça Chata</span>
-				    </figcaption>
     				<img src="<?php echo url::base(); ?>images/fix-02.png" alt="Fixadores" class="img-fluid">
 			    </figure>
             </div>
+		</div>
+		<div class="row justify-content-end">
             <div class="col-lg-3 d-flex justify-content-center align-items-center">
                 <figure class="fixa-fig">
-                    <figcaption>
-    				    <span>Porca Borboleta MA - MC</span>
-				    </figcaption>
     				<img src="<?php echo url::base(); ?>images/fix-03.png" alt="Fixadores" class="img-fluid">
 			    </figure>
             </div>
             <div class="col-lg-3 d-flex justify-content-center align-items-center">
                 <figure class="fixa-fig">
-                    <figcaption>
-    				    <span>Parafuso Chipboard Cabeça Chata</span>
-				    </figcaption>
     				<img src="<?php echo url::base(); ?>images/fix-04.png" alt="Fixadores" class="img-fluid">
 			    </figure>
             </div>
         </div>
         <div class="collapse" id="verMais01">
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Atarraxante Fenda Cabeça Panela</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-05.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Auto Travante Nylon NC - NF - MA - MB </span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-06.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Chipboard Cabeça Panela</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-07.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Atarraxante Fenda Cabeça Chata</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-08.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada AutoTravante Torque - NC - NF - MA - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-09.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Chipboard Flangeado</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-10.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Fenda Cabeça Chata - NC</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-11.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Cônica NF - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-12.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Phillips Auto Atarraxante Cabeça Panela</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-13.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Fenda Cabeça Redonda - NC</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-14.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Solda MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-15.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Phillips Auto Atarraxante Cabeça Chata</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-16.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Fenda Cabeça Chata - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-17.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Dupla 5.8 NF - NC - MA - MB 8.8 - NF</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-18.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Phillips Cabeça Panela - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-19.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Fenda Cabeça Cilíndirca - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-20.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Castelo 5.8  Alta e Baixa NC - NF - MA - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-21.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Máquina Phillips Cabeça Chata - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-22.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Castelo Com Coroa 5.8 Alta e Baixa - MA - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-23.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Chapeador</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-24.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela de Pressão Polegada e Métrica Média e Pesada</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-25.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Baixa NC - NF - MA - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-26.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Estriada</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-27.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Lisa Polegada e Métrica Média e Pesada - Aba Larga</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-28.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada Flangeada NC - NF - MA - MB</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-29.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Vedação Alumínio</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-30.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Estofador</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-31.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Arruela Dentada Externa/Interna</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-32.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Anel de Retenção</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-33.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Porca Sextavada 5.8 - 8.8 NC - NF - MA - MB - PASSO 1,25</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-34.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Francês 5.8 com Porca Sextavada</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-35.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Francês 5.8 com Porca Sextavada</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-36.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Sextavado Flangeado 8.8 MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-37.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Francês - Grau 5</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-38.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Allen Cabeça Chata 12.9 - NC - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-39.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Allen Sextavado Interno 12.9 - Cabeça Cilíndrica NC - MA</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-40.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Sextavado 5.8 MA - NC - NF</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-41.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Sextavado 8.8 Rosca Total - MA - NC</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-42.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-                        <figcaption>
-        				    <span>Parafuso Sextavado 8.8/10.9 MA - MB - NC - NF
-Passo 1,25</span>
-    				    </figcaption>
-        				<img src="<?php echo url::base(); ?>images/fix-43.png" alt="Fixadores" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    
-                </div>
-            </div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-05.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-06.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-07.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-08.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-09.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-10.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-11.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-12.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-13.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-14.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-15.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-16.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-17.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-18.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row justify-content-end">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-19.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fix-20.png" alt="Fixadores" class="img-fluid">
+					</figure>
+				</div>
+			</div>
         </div>
         <a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#verMais01" role="button" aria-expanded="false" aria-controls="collapseExample">
             Ver mais
         </a>
-
+		<!-- Ferramentas -->
         <div class="row">
             <div class="col-6">
                 <div class="fixadores">
@@ -418,6 +168,8 @@ Passo 1,25</span>
     				<img src="<?php echo url::base(); ?>images/fer-02.png" alt="Ferramentas" class="img-fluid">
 			    </figure>
             </div>
+		</div>
+		<div class="row">
             <div class="col-lg-3 d-flex justify-content-center align-items-center">
                 <figure class="fixa-fig">
     				<img src="<?php echo url::base(); ?>images/fer-03.png" alt="Ferramentas" class="img-fluid">
@@ -430,260 +182,110 @@ Passo 1,25</span>
             </div>
         </div>
         <div class="collapse" id="ver-mais-ferramentas">
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-05.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-06.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-07.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-08.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-09.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-10.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-11.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-12.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-13.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-14.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-15.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-16.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-17.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-18.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-19.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-20.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-21.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-22.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-23.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-24.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-25.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-26.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-27.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-28.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-29.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-30.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-31.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-32.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-33.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-34.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-35.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-36.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-37.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-38.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-39.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-40.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-41.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-42.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-43.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-44.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-45.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-46.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-47.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-48.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                    <figure class="fixa-fig">
-        				<img src="<?php echo url::base(); ?>images/fer-49.png" alt="Ferramentas" class="img-fluid">
-    			    </figure>
-                </div>
-            </div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-05.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-06.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-07.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-08.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-09.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-10.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-11.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-12.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-13.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-14.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-15.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-16.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-17.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-18.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-19.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+				<div class="col-lg-3 d-flex justify-content-center align-items-center">
+					<figure class="fixa-fig">
+						<img src="<?php echo url::base(); ?>images/fer-20.png" alt="Ferramentas" class="img-fluid">
+					</figure>
+				</div>
+			</div>
         </div>
-        <a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#ver-mais-ferramentas" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Ver mais
-        </a>
-
+        <div class="row">
+			<div class="col-lg-6">
+				<a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#ver-mais-ferramentas" role="button" aria-expanded="false" aria-controls="collapseExample">
+					Ver mais
+				</a>
+			</div>
+		</div>
     </div>
 </section>
 <section class="product-line">
