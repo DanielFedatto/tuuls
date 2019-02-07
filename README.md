@@ -1,1 +1,1 @@
-https://app.buddy.works/danielfedatto/tuuls-1/pipelines/pipeline/171791/badge.svg?token=b8977622b71536318f499eb82e8c0f82d5245c664dd694faed88546b96c4cf56
+[![buddy pipeline](https://app.buddy.works/danielfedatto/tuuls-1/pipelines/pipeline/171791/badge.svg?token=b8977622b71536318f499eb82e8c0f82d5245c664dd694faed88546b96c4cf56 "buddy pipeline")](https://app.buddy.works/danielfedatto/tuuls-1/pipelines/pipeline/171791)

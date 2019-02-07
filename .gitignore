@@ -1,4 +1,6 @@
+.htaccess
 application/logs
 application/cache
-.htaccess
+application/bootstrap.php
 admin/.htaccess
+admin/application/bootstrap.php
