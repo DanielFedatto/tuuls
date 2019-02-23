@@ -406,7 +406,7 @@ class Controller_Index extends Controller_Template {
                 $mail->Host = $this->host;
 
                 //Define a porta utilizada pelo Gmail para o envio autenticado
-                $mail->Port = "587";
+                $mail->Port = "465";
 
                 // Define que a mensagem utiliza método de envio autenticado
                 $mail->SMTPAuth = "true";
