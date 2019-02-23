@@ -23,7 +23,7 @@ class Controller_Index extends Controller_Template {
     //E-MAIL DE AUTENTICAÇÃO
     public $emailEmpresa = "atendimento@tuuls.com.br";
     //SENHA DO E-MAIL DE AUTENTICAÇÃO
-    public $senhaEmail = "tuuls2019";
+    public $senhaEmail = "parafuso696";
     //HOST DO E-MAIL DE AUTENTICAÇÃO
     public $host = "smtp.gmail.com";
     //VARIÁVEL DE SESSÕES
