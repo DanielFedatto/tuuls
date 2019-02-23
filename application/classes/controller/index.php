@@ -217,7 +217,7 @@ class Controller_Index extends Controller_Template {
                 $mail->CharSet = "utf-8";
 
                 // Define que os emails enviadas utilizarão SMTP Seguro tls
-                $mail->SMTPSecure = "tls";
+                $mail->SMTPSecure = "ssl";
 
                 // Define que o Host que enviará a mensagem é o Gmail
                 $mail->Host = $this->host;
@@ -400,7 +400,7 @@ class Controller_Index extends Controller_Template {
                 $mail->CharSet = "utf-8";
 
                 // Define que os emails enviadas utilizarão SMTP Seguro tls
-                $mail->SMTPSecure = "tls";
+                $mail->SMTPSecure = "ssl";
 
                 // Define que o Host que enviará a mensagem é o Gmail
                 $mail->Host = $this->host;
