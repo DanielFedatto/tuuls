@@ -19,13 +19,13 @@ class Controller_Index extends Controller_Template {
     );
     
     //DOMÍNIO
-    public $dominio = "http://tuuls.com.br/";
+    public $dominio = "http://www.tuuls.com.br/";
     //E-MAIL DE AUTENTICAÇÃO
-    public $emailEmpresa = "mail@tuuls.com.br";
+    public $emailEmpresa = "atendimento@tuuls.com.br";
     //SENHA DO E-MAIL DE AUTENTICAÇÃO
-    public $senhaEmail = "tuuls#2018";
+    public $senhaEmail = "tuuls2019";
     //HOST DO E-MAIL DE AUTENTICAÇÃO
-    public $host = "mail.tuuls.com.br";
+    public $host = "smtp.gmail.com";
     //VARIÁVEL DE SESSÕES
     protected $sessao;
     //QUANTIDADE DE ITENS POR PAGINA NA LISTAGEM
@@ -223,7 +223,7 @@ class Controller_Index extends Controller_Template {
                 $mail->Host = $this->host;
 
                 //Define a porta utilizada pelo Gmail para o envio autenticado
-                $mail->Port = "587";
+                $mail->Port = "465";
 
                 // Define que a mensagem utiliza método de envio autenticado
                 $mail->SMTPAuth = "true";
