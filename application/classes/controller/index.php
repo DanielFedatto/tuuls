@@ -21,11 +21,11 @@ class Controller_Index extends Controller_Template {
     //DOMÍNIO
     public $dominio = "http://www.tuuls.com.br/";
     //E-MAIL DE AUTENTICAÇÃO
-    public $emailEmpresa = "atendimento@tuuls.com.br";
+    public $emailEmpresa = "_mainaccount@tuuls.com.br";
     //SENHA DO E-MAIL DE AUTENTICAÇÃO
-    public $senhaEmail = "parafuso696";
+    public $senhaEmail = "8dp11Kg3Ax";
     //HOST DO E-MAIL DE AUTENTICAÇÃO
-    public $host = "smtp.gmail.com";
+    public $host = "mail.tuuls.com.br";
     //VARIÁVEL DE SESSÕES
     protected $sessao;
     //QUANTIDADE DE ITENS POR PAGINA NA LISTAGEM
