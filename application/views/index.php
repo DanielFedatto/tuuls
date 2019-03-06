@@ -7,8 +7,45 @@
 </div>
 <section class="produtos">
     <div class="container">
-        <div class="row justify-content-end">
-            <div class="col-6">
+        <div class="row d-flex">
+			<div class="col-6">
+				<!-- Ferramentas -->
+                <div class="fixadores">
+                    <figure>
+        				<img src="<?php echo url::base(); ?>images/ferramentas.jpg" alt="Ferramentas" class="img-fluid">
+        				<figcaption>
+        				    <h5>FERRAMENTAS</h5>
+        				</figcaption>
+        			</figure>
+                </div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fer-01.png" alt="Ferramentas" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fer-02.png" alt="Ferramentas" class="img-fluid">
+						</figure>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fer-03.png" alt="Ferramentas" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fer-04.png" alt="Ferramentas" class="img-fluid">
+						</figure>
+					</div>
+        		</div>
+				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-ferramentas">Ver Mais</button>
+			</div>
+			<div class="col-6">
+				<!-- Ferramentas -->
                 <div class="fixadores">
                     <figure>
         				<img src="<?php echo url::base(); ?>images/fixadores.jpg" alt="Fixadores" class="img-fluid">
@@ -17,580 +54,397 @@
         				</figcaption>
         			</figure>
                 </div>
-            </div>
-        </div>
-        <div class="row justify-content-end">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fix-01.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fix-02.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fix-01.png" alt="Fixadores" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fix-02.png" alt="Fixadores" class="img-fluid">
+						</figure>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fix-03.png" alt="Fixadores" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/fix-04.png" alt="Fixadores" class="img-fluid">
+						</figure>
+					</div>
+        		</div>
+				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-fixadores">Ver Mais</button>
+			</div>
 		</div>
-		<div class="row justify-content-end">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fix-03.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fix-04.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-        </div>
-        <div class="collapse" id="verMais01">
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-05.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-06.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-07.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-08.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-09.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-10.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-11.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-12.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-13.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-14.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-15.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-16.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-17.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-18.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-19.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fix-20.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-        </div>
-        <a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#verMais01" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Ver mais
-        </a>
-		<!-- Ferramentas -->
-        <div class="row">
-            <div class="col-6">
+		<div class="row d-flex">
+			<div class="col-6">
+				<!-- Utilidades -->
                 <div class="fixadores">
                     <figure>
-        				<img src="<?php echo url::base(); ?>images/ferramentas.jpg" alt="Fixadores" class="img-fluid">
-        				<figcaption>
-        				    <h5>FERRAMENTAS</h5>
-        				</figcaption>
-        			</figure>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fer-01.png" alt="Ferramentas" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fer-02.png" alt="Ferramentas" class="img-fluid">
-			    </figure>
-            </div>
-		</div>
-		<div class="row">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fer-03.png" alt="Ferramentas" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/fer-04.png" alt="Ferramentas" class="img-fluid">
-			    </figure>
-            </div>
-        </div>
-        <div class="collapse" id="ver-mais-ferramentas">
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-05.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-06.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-07.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-08.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-09.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-10.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-11.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-12.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-13.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-14.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-15.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-16.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-17.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-18.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-19.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/fer-20.png" alt="Ferramentas" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-        </div>
-		<div class="row">
-			<div class="col-lg-6">
-				<a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#ver-mais-ferramentas" role="button" aria-expanded="false" aria-controls="collapseExample">
-					Ver mais
-				</a>
-			</div>
-		</div>
-		<!-- Tuuls + Agro -->
-        <div class="row justify-content-end">
-            <div class="col-6">
-                <div class="fixadores">
-                    <figure>
-        				<img src="<?php echo url::base(); ?>images/agro.jpg" alt="Agro" class="img-fluid">
-        				<figcaption>
-        				    <h5>TUULS+AGRO</h5>
-        				</figcaption>
-        			</figure>
-                </div>
-            </div>
-        </div>
-		<div class="row justify-content-end">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/agro-01.jpg" alt="Agro Tuuls" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/agro-02.jpg" alt="Agro Tuuls" class="img-fluid">
-			    </figure>
-            </div>
-		</div>
-		<!-- Utilidades -->
-		<div class="row">
-            <div class="col-6">
-                <div class="fixadores">
-                    <figure>
-        				<img src="<?php echo url::base(); ?>images/utilidades.jpg" alt="Fixadores" class="img-fluid">
+        				<img src="<?php echo url::base(); ?>images/utilidades.jpg" alt="Utilidades" class="img-fluid">
         				<figcaption>
         				    <h5>UTILIDADES</h5>
         				</figcaption>
         			</figure>
                 </div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/util-01.png" alt="Utilidades" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/util-02.png" alt="Utilidades" class="img-fluid">
+						</figure>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/util-03.png" alt="Utilidades" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/util-04.png" alt="Utilidades" class="img-fluid">
+						</figure>
+					</div>
+        		</div>
+				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-utilidades">Ver Mais</button>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/util-01.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/util-02.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-		</div>
-		<div class="row">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/util-03.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/util-04.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-        </div>
-        <div class="collapse" id="ver-mais-utilidades">
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-05.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-06.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-07.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-08.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-09.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-10.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-11.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-12.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-13.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-14.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-15.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-16.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-17.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-18.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-19.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/util-20.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-        </div>
-        <div class="row">
-			<div class="col-lg-6">
-				<a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#ver-mais-utilidades" role="button" aria-expanded="false" aria-controls="collapseExample">
-					Ver mais
-				</a>
-			</div>
-		</div>
-		<!-- Contrução Civil -->
-		<div class="row justify-content-end">
-            <div class="col-6">
+			<div class="col-6">
+				<!-- Construção Civil -->
                 <div class="fixadores">
                     <figure>
-        				<img src="<?php echo url::base(); ?>images/construcao.jpg" alt="Fixadores" class="img-fluid">
+        				<img src="<?php echo url::base(); ?>images/construcao.jpg" alt="Construção Civil" class="img-fluid">
         				<figcaption>
-        				    <h5>CONTRUÇÃO CIVIL</h5>
+        				    <h5>CONSTRUÇÃO CIVIL</h5>
         				</figcaption>
         			</figure>
                 </div>
-            </div>
-        </div>
-        <div class="row justify-content-end">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/cons-01.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/cons-02.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/cons-01.png" alt="Construção Civil" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/cons-02.png" alt="Construção Civil" class="img-fluid">
+						</figure>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/cons-03.png" alt="Construção Civil" class="img-fluid">
+						</figure>
+					</div>
+					<div class="col-lg-6 d-flex justify-content-center align-items-center">
+						<figure class="fixa-fig">
+							<img src="<?php echo url::base(); ?>images/cons-04.png" alt="Construção Civil" class="img-fluid">
+						</figure>
+					</div>
+        		</div>
+				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-construcao">Ver Mais</button>
+			</div>
 		</div>
-		<div class="row justify-content-end">
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/cons-03.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
-            <div class="col-lg-3 d-flex justify-content-center align-items-center">
-                <figure class="fixa-fig">
-    				<img src="<?php echo url::base(); ?>images/cons-04.png" alt="Fixadores" class="img-fluid">
-			    </figure>
-            </div>
+			<div class="row d-flex justify-content-center">
+				<div class="col-6">
+					<!-- Tuuls + Agro -->
+					<div class="fixadores">
+						<figure>
+							<img src="<?php echo url::base(); ?>images/agro.jpg" alt="Tuuls Agro" class="img-fluid">
+							<figcaption>
+								<h5>TUULS + AGRO</h5>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="row">
+						<div class="col-lg-6 d-flex justify-content-center align-items-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/linha-01.jpg" alt="Construção Civil" class="img-fluid">
+							</figure>
+						</div>
+						<div class="col-lg-6 d-flex justify-content-center align-items-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/linha-02.jpg" alt="Construção Civil" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-lg-6 d-flex justify-content-center align-items-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/linha-03.jpg" alt="Construção Civil" class="img-fluid">
+							</figure>
+						</div>
+						<div class="col-lg-6 d-flex justify-content-center align-items-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/linha-04.jpg" alt="Construção Civil" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="modal fade" id="ver-ferramentas" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body d-flex flex-wrap justify-content-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-05.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-06.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-07.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-08.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-09.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-10.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-11.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-12.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-13.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-14.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-15.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-16.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-17.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-18.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-19.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-20.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-21.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fer-22.png" alt="Ferramentas" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+            <div class="modal fade" id="ver-fixadores" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body d-flex flex-wrap justify-content-center">
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-05.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-06.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-07.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-08.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-09.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-10.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-11.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-12.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-13.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-14.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-15.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-16.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-17.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-18.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-19.png" alt="Fixadores" class="img-fluid">
+							</figure>
+							<figure class="fixa-fig">
+								<img src="<?php echo url::base(); ?>images/fix-20.png" alt="Fixadores" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="ver-utilidades" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body d-flex flex-wrap justify-content-center">
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-05.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-06.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-07.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-08.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-09.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-10.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-11.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-12.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-13.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-14.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-15.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-16.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-17.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-18.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-19.png" alt="Utilidades" class="img-fluid">
+							</figure>
+							<figure class="utila-fig">
+								<img src="<?php echo url::base(); ?>images/util-20.png" alt="Utilidades" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="ver-construcao" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+				<div class="modal-dialog modal-dialog-centered" role="document">
+					<div class="modal-content">
+						<div class="modal-header">
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+						</div>
+						<div class="modal-body d-flex flex-wrap justify-content-center">
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-05.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-06.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-07.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-08.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-09.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-10.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-11.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-12.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-13.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-14.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-15.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-16.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-17.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-18.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-19.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+							<figure class="consa-fig">
+								<img src="<?php echo url::base(); ?>images/cons-20.png" alt="Construção Civil" class="img-fluid">
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
         </div>
-        <div class="collapse" id="ver-mais-contrucao">
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-05.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-06.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-07.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-08.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-09.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-10.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-11.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-12.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-13.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-14.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-15.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-16.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-17.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-18.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-			<div class="row justify-content-end">
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-19.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-				<div class="col-lg-3 d-flex justify-content-center align-items-center">
-					<figure class="fixa-fig">
-						<img src="<?php echo url::base(); ?>images/cons-20.png" alt="Fixadores" class="img-fluid">
-					</figure>
-				</div>
-			</div>
-        </div>
-        <a class="ver-mais d-flex justify-content-end" data-toggle="collapse" href="#ver-mais-contrucao" role="button" aria-expanded="false" aria-controls="collapseExample">
-            Ver mais
-        </a>
     </div>
 </section>
 <section class="product-line">
