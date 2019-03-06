@@ -8,7 +8,7 @@
 <section class="produtos">
     <div class="container">
         <div class="row d-flex">
-			<div class="col-6">
+			<div class="col-xl-6 col-md-12">
 				<!-- Ferramentas -->
                 <div class="fixadores">
                     <figure>
@@ -44,7 +44,7 @@
         		</div>
 				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-ferramentas">Ver Mais</button>
 			</div>
-			<div class="col-6">
+			<div class="col-xl-6 col-md-12">
 				<!-- Ferramentas -->
                 <div class="fixadores">
                     <figure>
@@ -82,7 +82,7 @@
 			</div>
 		</div>
 		<div class="row d-flex">
-			<div class="col-6">
+			<div class="col-xl-6 col-md-12">
 				<!-- Utilidades -->
                 <div class="fixadores">
                     <figure>
@@ -118,7 +118,7 @@
         		</div>
 				<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ver-utilidades">Ver Mais</button>
             </div>
-			<div class="col-6">
+			<div class="col-xl-6 col-md-12">
 				<!-- Construção Civil -->
                 <div class="fixadores">
                     <figure>
@@ -156,7 +156,7 @@
 			</div>
 		</div>
 			<div class="row d-flex justify-content-center">
-				<div class="col-6">
+				<div class="col-xl-6 col-md-12">
 					<!-- Tuuls + Agro -->
 					<div class="fixadores">
 						<figure>
